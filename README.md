@@ -1,8 +1,8 @@
-#Image Processing GUI App using Python Tkinter and OpenCV
-##Overview
+# Image Processing GUI App using Python Tkinter and OpenCV
+## Overview
 This project aims to develop a user-friendly Graphical User Interface (GUI) application for image processing using Python's Tkinter library for the interface and OpenCV for the image processing functionalities. The application provides an intuitive platform for users to manipulate images through various filters, effects, and transformations.
 
-##Features
+## Features
 User-Friendly Interface: The GUI is designed to be intuitive and easy to navigate, catering to users with varying levels of expertise in image processing.
 
 Image Import and Export: Users can easily import images from their local system and export processed images to desired locations.
@@ -15,7 +15,7 @@ Image Transformations: Basic image transformations like rotation, scaling, flipp
 
 Histogram Analysis: The application provides tools for histogram analysis, allowing users to visualize and manipulate image histograms to adjust contrast and brightness effectively.
 
-##Technologies Used
+## Technologies Used
 Python: The core programming language used for development.
 
 Tkinter: Python's standard GUI toolkit used for creating the graphical user interface.
